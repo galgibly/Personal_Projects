@@ -1,0 +1,10 @@
+﻿  Car.cpp
+  CarColor.cpp
+  CarList.cpp
+  CarNode.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Gal Gibly\Desktop\פתרון תרגול כיתה שבועות 1-3\CarList.cpp(64): warning C4715: 'CarList::find': not all control paths return a value
+C:\Users\Gal Gibly\Desktop\פתרון תרגול כיתה שבועות 1-3\CarList.cpp(117): warning C4715: 'CarList::remove': not all control paths return a value
+C:\Users\Gal Gibly\Desktop\פתרון תרגול כיתה שבועות 1-3\Car.cpp(78): warning C4717: 'Car::operator!=': recursive on all control paths, function will cause runtime stack overflow
+  FirstTigbur.vcxproj -> C:\Users\Gal Gibly\source\repos\FirstTigbur\Debug\FirstTigbur.exe

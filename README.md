@@ -1,2 +1,2 @@
-# EXCERCISES
+# Projects
  
